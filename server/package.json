@@ -1,13 +1,13 @@
 {
-  "name": "student-management-portal",
+  "name": "EduGrid",
   "version": "1.0.0",
-  "description": "5th semester project of SDA",
+  "description": "8th semester project of Web",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon"
   },
-  "author": "Ahsan Javed",
+  "author": "Ehab Qasim",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
